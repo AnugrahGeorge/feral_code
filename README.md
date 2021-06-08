@@ -1,4 +1,8 @@
 # feral_code
- I am interested in python.\n 
- I want to learn about Macine Learning.\n
+ I am interested in python.
+ 
+ 
+ I want to learn about Macine Learning.
+ 
+ 
 I want to create my own A.I
