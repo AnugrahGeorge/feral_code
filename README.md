@@ -1,8 +1,4 @@
 # feral_code
- I am interested in python.
- 
- 
- I want to learn about Machine Learning.
- 
- 
-I want to create my own A.I
+ I am Currently Pursuing B.Tech in CSE 
+ I am very keen to learn about Machine Learning. 
+ I 
